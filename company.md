@@ -15,7 +15,6 @@ Chalmers University,
 University of Gothenburg.
 
 -
-p
 4th December, 2013.
 
 I hereby wish to recommend Mr. Phattara Wangrungarun for the `Scholarship`. I have known and worked alongside with Mr. Phattara for the past 2 years during his tenure as an employee of my Company.
