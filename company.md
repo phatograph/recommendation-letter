@@ -18,16 +18,15 @@ University of Gothenburg.
 
 4th December, 2013.
 
-I hereby wish to recommend Mr. Phattara Wangrungarun for the `Scholarship`. I have known and been working with Mr. Phattara for the past 2 years that he has been an employee in our Company.
+I hereby wish to recommend Mr. Phattara Wangrungarun for the `Scholarship`. I have known and worked alongside with Mr. Phattara for the past 2 years during his tenure as an employee of my Company.
 
-> TBD keys:
-- Fast Learner / Adaptive / Innovative / Enthusiastic / Hipster / Team player
-- Involved in a complex projects, design, implement,
-  solve problems and occassionally review collaborators' works
-- Contributions to company internal system, a bot ;)
-- Attending and participating in technical events
+He has been and continues to be an exemplary employee, both technically and from a team/mentor perspective. An extremely fast learner, Phat has been instrumental in leading complex technical projects whilst also mentoring newer team members. He shows a strong ability to adapt to new technologies and methodologies and has continually demonstrated strong problem solving, collaborative and cognitive skills.
 
-I sincerely recommend Mr. Phattara for the `Scholarship`.
+During his time with us he has completed a number of internal and client projects, one recent example was an intelligent bot within the company chat system for helping company employees with day-to-day tasks, which is now used continually by all of our employees.
+
+Aside from pure technical skill, Phat has always been an enthusiastic team player and an ambassador for the company at several technical events.
+
+I have no hesitation whatsoever in recommending Mr. Phattara for the `Scholarship`.
 
 -
 
